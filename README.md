@@ -1,2 +1,2 @@
-# BaytApps-Resign-Scripts
-bayapps resign scripts v1
+# BaytApps-LastScripts
+last resign scripts modified by yongrui
